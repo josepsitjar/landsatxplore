@@ -5,7 +5,7 @@
 
 # Description
 
-This is a form from [landsatxplore](https://pypi.org/project/landsatxplore/) created in order to maintain the functionalities. 
+This is a form fork [landsatxplore](https://pypi.org/project/landsatxplore/) created in order to maintain the functionalities. 
 
 ![CLI Demo](https://raw.githubusercontent.com/yannforget/landsatxplore/master/demo.gif?s=0.5)
 
